@@ -25,7 +25,7 @@ count_of_steps = 0
 count_of_cycles = 1  # счетчик фаз и счетчик циклов (в одном цикле 3 фазы: ночь, день, голосование)
 text = ""
 window = Tk()
-window.title("КАЛЬКУЛЯТОР МАФИИ")
+window.title("КРАСНО-ЧЕРНЫЙ АНАЛИТИК")
 
 programm_flag = True
 
